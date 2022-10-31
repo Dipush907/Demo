@@ -2,10 +2,10 @@ package com.demo;
 
 import org.testng.annotations.Test;
 
-public class Demo {
+public class DemoTest {
 
 	@Test
-	public void DemoRun()
+	public void DemoRunTest()
 	{
 		System.out.println("Print this only");
 	}
